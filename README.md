@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 This project features an autonomous robotic system capable of real-time target identification and precision engagement. It was developed to demonstrate advanced hardware-software integration using the Arduino platform.
-![Schema Tanc](arhitecture.jpg)
+![Autonomous-Targeting-Shooting-Tank](arhitecture.png)
 ## 🛠️ Key Technical Features
 **Autonomous Logic:** Implemented real-time decision-making algorithms for target tracking
 **Hardware Integration:** Synchronized ultrasonic/optical sensors with servo-actuated firing mechanisms
