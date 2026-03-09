@@ -1,5 +1,5 @@
 # 🚀 Autonomous Targeting & Shooting Tank
-**Project Grade: 10/10 | Robotics Laboratory | Transilvania University of Brașov**
+** Robotics Laboratory | Transilvania University of Brașov**
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-Arduino-orange)
