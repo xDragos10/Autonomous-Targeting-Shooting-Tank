@@ -4,6 +4,25 @@
 ## 📌 Overview
 This project features an autonomous robotic system capable of real-time target identification and precision engagement. It was developed to demonstrate advanced hardware-software integration using the Arduino platform.
 ![Autonomous-Targeting-Shooting-Tank](arhitecture.png)
+
+## 🛠️ Hardware & Software Setup
+
+### 📋 Prerequisites
+* **Arduino IDE** (v1.8.x or newer)
+* **Components:** Arduino Board, Ultrasonic Sensor, DC Motors/Servos, L298N Motor Driver.
+
+### 🔧 Installation Steps
+1. **Hardware:** Connect the components according to the `schema.jpg` uploaded in this repository.
+2. **Software:** Download or clone this repository.
+3. **Open:** Load `COD_tank.ino` in your Arduino IDE.
+4. **Library:** Ensure you have the `NewPing` library installed (if used) for the ultrasonic sensor.
+5. **Upload:** Connect your Arduino via USB and hit **Upload**.
+
+##### 🕹️ How it works
+The system initializes the sensors and starts scanning for targets. Once a target is detected within the defined range, the control logic triggers the shooting mechanism. 
+
+**Precision:** Using advanced real-time data processing, the turret adjusts its orientation to ensure the projectile hits the **exact center** of the target while maintaining continuous tracking.
+
 ## 🛠️ Key Technical Features
 **Autonomous Logic:** Implemented real-time decision-making algorithms for target tracking
 **Hardware Integration:** Synchronized ultrasonic/optical sensors with servo-actuated firing mechanisms
