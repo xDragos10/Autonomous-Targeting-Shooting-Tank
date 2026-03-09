@@ -1,5 +1,9 @@
 # 🚀 Autonomous Targeting & Shooting Tank
 **Project Grade: 10/10 | Robotics Laboratory | Transilvania University of Brașov**
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Hardware](https://img.shields.io/badge/Hardware-Arduino-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Grade](https://img.shields.io/badge/Project_Grade-10%2F10-brightgreen)
 
 ## 📌 Overview
 This project features an autonomous robotic system capable of real-time target identification and precision engagement. It was developed to demonstrate advanced hardware-software integration using the Arduino platform.
